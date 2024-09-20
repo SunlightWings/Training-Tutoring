@@ -4,5 +4,3 @@ Covered:
 3. Functions
    * Calculator Program
 4. Conditionals
-5. Loops
-   * Guessing game 
